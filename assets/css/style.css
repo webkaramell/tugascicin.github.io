@@ -1,0 +1,16 @@
+* {
+    text-decoration: royalblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+td ul li {
+    color: black;
+    font-weight: brush script mt;
+    text-decoration: none;
+}
+
+ul:hover {
+    text-decoration: underline;
+    color: #FFFFFFFF
+}
